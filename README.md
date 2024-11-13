@@ -1,7 +1,5 @@
 # mortality-table-india
 
-## Readme.md Suggestion for Github Repository
-
 This repository contains data on life expectancy in India and its states/union territories from 1970-75 to 2016-20.
 
 ### Data Source
